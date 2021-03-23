@@ -46,7 +46,7 @@ function BinanceChain() {
     <div>
       <PageHeader
         className="site-page-header"
-        title="Openlogin binance boilerplate"
+        title="OpenLogin x Binance Smart Chain"
         extra={[
           <Button key="1" type="primary" onClick={handleLogout}>
             Logout

@@ -18,7 +18,7 @@ function Login() {
   return (
     <div className="loginContainer">
       <div className="loginContainer">
-        <h1 style={{ textAlign: "center" }}>Openlogin binance boilerplate</h1>
+        <h1 style={{ textAlign: "center" }}>OpenLogin x Binance Smart Chain</h1>
         <div onClick={handleLogin} className="btn">
           Login
         </div>
